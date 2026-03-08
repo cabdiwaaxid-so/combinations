@@ -1,0 +1,14 @@
+{
+  "name": "@cabdi_waaxid/combinations",
+  "version": "1.0.0",
+  "description": "Generate all possible combinations and permutations from a string with filters.",
+  "main": "index.js",
+  "keywords": [
+    "combinations",
+    "permutations",
+    "string",
+    "generator"
+  ],
+  "author": "Cabdi Waaxid Siciid",
+  "license": "MIT"
+}
